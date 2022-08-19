@@ -1,9 +1,9 @@
-# Trave-World
+# Web-Master
 ## live-Link: (https://travel-world-18b93.web.app/)
 
 ### website's different features
 1 React js website.
-2 use react bootstrap.
+2 use tailwind css.
 3 use react hooks.
 4 use react router.
 5 use firebase.
